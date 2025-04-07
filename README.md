@@ -1,17 +1,17 @@
 # <h1 align="center">Hi 👋 I'am Rizky Cahyono Putra</h1>
 
-* *   🔭 I’m studying on **Darussalam University**
-*     
-* *   🌱 I’m currently learning **Web Developer**
-*     
-* *   💬 Ask me about **PHP, Java, C++, HTML, CSS, JS, ANDROID**
-*     
-* *   📫 How to reach me **[naufalharisprasetia@gmail.com](mailto:naufalharisprasetia@gmail.com)**
-*     
-* *   ⚡ Fun fact **I am Funny**
-*     
-* *   📄 Know about my experiences \[I was participated on Web Developer Championship\](I got First Winner)
-*
+🔭 I’m studying on **Darussalam University**
+     
+🌱 I’m currently learning **Web Developer**
+     
+💬 Ask me about **PHP, Go, C++, HTML, CSS, JS,**
+   
+📫 How to reach me **[rizkycahyonoputra2004@gmail.com](mailto:rizkycahyonoputra2004@gmail.com)**
+ 
+⚡ Fun fact **I am Funny**
+
+📄 Know about my experiences \[I was participated on Web Developer Championship\](I got First Winner)
+
 
 
 ## 🌐 Socials:
